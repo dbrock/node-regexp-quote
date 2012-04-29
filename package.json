@@ -1,0 +1,16 @@
+{
+  "author": "Daniel Brockman <@dbrock>",
+  "name": "regexp-quote",
+  "description": "RegExp.quote = require('regexp-quote')",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "main": "regexp-quote.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
