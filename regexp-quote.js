@@ -1,3 +1,3 @@
-module.exports = function (string) {
-  return string.replace(/[-\\^$*+?.()|[\]{}]/g, "\\$&")
+module.exports = function (x) {
+  return x.toString().replace(/[-\\^$*+?.()|[\]{}]/g, "\\$&")
 }
