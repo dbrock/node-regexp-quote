@@ -3,6 +3,8 @@
   "name": "regexp-quote",
   "description": "RegExp.quote = require('regexp-quote')",
   "version": "0.0.0",
+  
+  "license": "MIT",
 
   "homepage": "https://github.com/dbrock/node-regexp-quote",
   "repository": {
